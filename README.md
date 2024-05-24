@@ -5,98 +5,96 @@
 
 ## 👨‍🎓 About Me
 
-I'm Maharshi Baba, a passionate Computer Science student at KL University, pursuing a Bachelor of Engineering with Honors. I specialize in software development, data structures, and algorithms. I love exploring new technologies and honing my skills through various projects and collaborations.
+I'm a passionate Computer Science student at KL University, pursuing a Bachelor of Engineering with Honors. I specialize in software development, data structures, and algorithms. I love exploring new technologies and honing my skills through various projects and collaborations.
 
-## 🔧 Skills & Technologies
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=2100032303&label=Profile%20views&color=0e75b6&style=flat" alt="Maharshi baba" /> </p>
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoWidth=40)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396&logoWidth=40)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=00599C&logoWidth=40)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoWidth=40)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoWidth=40)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoWidth=40)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoWidth=40)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoWidth=40)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoWidth=40)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoWidth=40)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoWidth=40)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoWidth=40)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoWidth=40)
+- 🔭 I’m currently working on **Mern Stack Project**
 
+- ⚡ fact : **Accept what you did ,Accept what you get**
+*************************************************************************************************************************************************************
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/addanki-maharshi-baba-747754226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maharshi baba" height="30" width="40" /></a>
+</p>
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](babamaharshi2@gmail.com)
+
+*******************************************************************************************************************************************************************
 
 ## 📚 Education:
 - **Bachelor of Engineering in Computer Science with Honors**
   - **Institution:** KL University
-  - **Graduation Year:** [2025]
+  - **Graduation Year:** "2025"
+ 
+ ************************************************************************************************************************************************************
     
 ## CODING PLATFORMS:
 -[![Codechef](https://image.pngaaa.com/788/4464788-middle.png)](https://www.codechef.com/users/klu_2100032303)
 -[![leetcode](https://res.cloudinary.com/apideck/image/upload/w_196,f_auto/v1660571091/marketplaces/ckgbapf48v2r20b99pe4pio5o/listings/leetcode_fyzvpo.png)](https://leetcode.com/u/2100032303/)
 -[![codeforces](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ69Ryw05X2VZZV8ktYQwsPBC6fkcOmaLIINkgVDYBY4-FhuKpHtmlZFkdo-KR9zHURxVU&usqp=CAU)](https://codeforces.com/profile/MAHARSHI_A)
 
+***************************************************************************************************************************************************************
+
 ## 🌟 Projects:
 
 **[Student Grade Management System](#)**
- -Project Overview:
+  -Project Overview:
 
 The Student Grade Management System is a comprehensive Java full-stack application designed to streamline and automate the process of managing student grades. This project leverages both front-end and back-end technologies to provide a seamless and efficient user experience for administrators, teachers, and students.
 
-Key Features:
+*Key Features:
 
 User Authentication: Secure login system for administrators, teachers, and students.
 Grade Management: Allows teachers to input, update, and view student grades.
 Student Profiles: Detailed profiles for each student, including personal information and academic records.
 Reporting: Generates detailed grade reports and analytics for performance tracking.
-Technologies Used:
+
+*Technologies Used:
 
 Front-End: HTML, CSS, JavaScript, React
 Back-End: Java, Spring Boot
 Database: MySQL
 Tools & Frameworks: Maven, Hibernate, RESTful APIs
-Role and Contributions:
 
-Developed the back-end logic using Java and Spring Boot to handle data processing and business logic.
-Implemented the front-end interface with React for a dynamic and responsive user experience.
-Designed and managed the MySQL database to store and retrieve student information and grades.
-Ensured secure authentication and authorization mechanisms using Spring Security.
-Project Outcome:
+
+*Project Outcome:
 This system significantly reduces the administrative burden of managing student grades and provides an accurate, real-time view of student performance, enhancing the overall educational process.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **[Corona cases analysis](#)**
- - Project Overview:
+ -Project Overview:
 
 The Corona Track Application is a web-based platform designed to provide real-time updates and comprehensive tracking of COVID-19 cases worldwide. This project utilizes both Angular and React frameworks for a robust, dynamic, and user-friendly interface.
 
-Key Features:
+*Key Features:
 
 Real-Time Data: Live updates on COVID-19 cases, recoveries, and fatalities globally and regionally.
 Interactive Map: Visual representation of data with an interactive map for easy navigation and visualization.
 Statistics Dashboard: Detailed statistics and trends displayed through graphs and charts.
 
-Technologies Used:
+*Technologies Used:
 
 Front-End: HTML, CSS, JavaScript
 Frameworks: Angular, React
 APIs: Integrated with third-party APIs for real-time data fetching
 Tools & Libraries: Axios for HTTP requests, Chart.js for data visualization
-Role and Contributions:
 
-Developed the front-end using Angular and React to create a responsive and dynamic user interface.
-Implemented data fetching and state management using Axios and React Hooks/Angular Services.
-Designed interactive charts and graphs using Chart.js to visualize COVID-19 statistics effectively.
-Integrated a real-time interactive map to provide a geographical view of the pandemic spread.
 
-Project Outcome:
-The Corona Track Application serves as an essential tool for individuals to stay informed about the COVID-19 pandemic, offering accurate and timely information to help users make informed decisions.
-[![coronatrack application](https://www.shutterstock.com/image-vector/vector-illustration-coronavirus-2019ncov-covid19-600nw-1673761141.jpg)](https://maharshi1.netlify.app)
+*Project Outcome:
+The Corona Track Application serves as an essential tool for individuals to stay informed about the COVID-19 pandemic, 
+offering accurate and timely information to help users make informed decisions.
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/addanki-maharshi-baba-747754226/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](babamaharshi2@gmail.com)
+*******************************************************************************************************************************************************
+
+-![quote](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnz7O4G9J3RV02e7thQefCkyb6PTxilJ2FdwgqhIysZA&s)
+
+*********************************************************************************************************************************************************
 
 ## 📝 Interests:
 - Open-source contribution
 - Competitive programming
-- Machine learning and AI
 - Full-stack web development
 
