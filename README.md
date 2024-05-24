@@ -1,4 +1,4 @@
-# Hi there, I'm Maharshi Baba 👋
+![image](https://github.com/2100032303/2100032303/assets/110448767/b56992a1-1a54-44de-90f4-68d321b4ac4a)# Hi there, I'm Maharshi Baba 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square)
 
@@ -21,17 +21,17 @@ I'm Maharshi Baba, a passionate Computer Science student at KL University, pursu
 - ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 - ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
-## 📚 Education
+## 📚 Education:
 - **Bachelor of Engineering in Computer Science with Honors**
   - **Institution:** KL University
   - **Graduation Year:** [2025]
     
-## CODING PLATFORMS
--[![Codechef](https://user-images.githubusercontent.com/64016811/126900195-9ce9ab12-8489-4b6c-883d-d37252f22d3f.png)](https://www.codechef.com/users/klu_2100032303)
--[![leetcode](https://repository-images.githubusercontent.com/730704737/d1cc5c54-4839-4294-9583-216da656e99e)](https://leetcode.com/u/2100032303/)
--[![codeforces](https://repository-images.githubusercontent.com/390296311/0f6c1240-462e-47ff-870d-e2d0ebb181f1)](https://codeforces.com/profile/MAHARSHI_A)
+## CODING PLATFORMS:
+-[![Codechef](https://image.pngaaa.com/788/4464788-middle.png)](https://www.codechef.com/users/klu_2100032303)
+-[![leetcode](https://res.cloudinary.com/apideck/image/upload/w_196,f_auto/v1660571091/marketplaces/ckgbapf48v2r20b99pe4pio5o/listings/leetcode_fyzvpo.png)](https://leetcode.com/u/2100032303/)
+-[![codeforces](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ69Ryw05X2VZZV8ktYQwsPBC6fkcOmaLIINkgVDYBY4-FhuKpHtmlZFkdo-KR9zHURxVU&usqp=CAU)](https://codeforces.com/profile/MAHARSHI_A)
 
-## 🌟 Projects
+## 🌟 Projects:
 
 **[Student Grade Management System](#)**
  -Project Overview:
@@ -85,13 +85,13 @@ Integrated a real-time interactive map to provide a geographical view of the pan
 
 Project Outcome:
 The Corona Track Application serves as an essential tool for individuals to stay informed about the COVID-19 pandemic, offering accurate and timely information to help users make informed decisions.
-[![coronatrack application](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://maharshi1.netlify.app)
+[![coronatrack application](https://www.shutterstock.com/image-vector/vector-illustration-coronavirus-2019ncov-covid19-600nw-1673761141.jpg)](https://maharshi1.netlify.app)
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/addanki-maharshi-baba-747754226/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](babamaharshi2@gmail.com)
 
-## 📝 Interests
+## 📝 Interests:
 - Open-source contribution
 - Competitive programming
 - Machine learning and AI
