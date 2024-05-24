@@ -1,4 +1,5 @@
-![image](https://github.com/2100032303/2100032303/assets/110448767/b56992a1-1a54-44de-90f4-68d321b4ac4a)# Hi there, I'm Maharshi Baba 👋
+
+# Hi there, I'm Maharshi Baba 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square)
 
@@ -7,19 +8,21 @@
 I'm Maharshi Baba, a passionate Computer Science student at KL University, pursuing a Bachelor of Engineering with Honors. I specialize in software development, data structures, and algorithms. I love exploring new technologies and honing my skills through various projects and collaborations.
 
 ## 🔧 Skills & Technologies
-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
-- ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
-- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-- ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-- ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoWidth=40)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396&logoWidth=40)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=00599C&logoWidth=40)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoWidth=40)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoWidth=40)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoWidth=40)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoWidth=40)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoWidth=40)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoWidth=40)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoWidth=40)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoWidth=40)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoWidth=40)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoWidth=40)
+
 
 ## 📚 Education:
 - **Bachelor of Engineering in Computer Science with Honors**
