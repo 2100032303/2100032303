@@ -25,15 +25,16 @@ I'm Maharshi Baba, a passionate Computer Science student at KL University, pursu
 - **Bachelor of Engineering in Computer Science with Honors**
   - **Institution:** KL University
   - **Graduation Year:** [2025]
-  - 
+    
 ## CODING PLATFORMS
--[![Codechef](https://www.codechef.com/users/klu_2100032303)
--[![leetcode](https://leetcode.com/u/2100032303/)
--[![codeforces](https://codeforces.com/profile/MAHARSHI_A)
+-[![Codechef](https://user-images.githubusercontent.com/64016811/126900195-9ce9ab12-8489-4b6c-883d-d37252f22d3f.png)](https://www.codechef.com/users/klu_2100032303)
+-[![leetcode](https://repository-images.githubusercontent.com/730704737/d1cc5c54-4839-4294-9583-216da656e99e)](https://leetcode.com/u/2100032303/)
+-[![codeforces](https://repository-images.githubusercontent.com/390296311/0f6c1240-462e-47ff-870d-e2d0ebb181f1)](https://codeforces.com/profile/MAHARSHI_A)
 
 ## 🌟 Projects
-- **[Student Grade Management System](#)**
-Project Overview:
+
+**[Student Grade Management System](#)**
+ -Project Overview:
 
 The Student Grade Management System is a comprehensive Java full-stack application designed to streamline and automate the process of managing student grades. This project leverages both front-end and back-end technologies to provide a seamless and efficient user experience for administrators, teachers, and students.
 
@@ -58,7 +59,7 @@ Ensured secure authentication and authorization mechanisms using Spring Security
 Project Outcome:
 This system significantly reduces the administrative burden of managing student grades and provides an accurate, real-time view of student performance, enhancing the overall educational process.
 
-- **[Corona cases analysis](#)**
+**[Corona cases analysis](#)**
  - Project Overview:
 
 The Corona Track Application is a web-based platform designed to provide real-time updates and comprehensive tracking of COVID-19 cases worldwide. This project utilizes both Angular and React frameworks for a robust, dynamic, and user-friendly interface.
@@ -68,7 +69,7 @@ Key Features:
 Real-Time Data: Live updates on COVID-19 cases, recoveries, and fatalities globally and regionally.
 Interactive Map: Visual representation of data with an interactive map for easy navigation and visualization.
 Statistics Dashboard: Detailed statistics and trends displayed through graphs and charts.
-News Updates: Latest news and information related to COVID-19 from reliable sources.
+
 Technologies Used:
 
 Front-End: HTML, CSS, JavaScript
@@ -81,6 +82,7 @@ Developed the front-end using Angular and React to create a responsive and dynam
 Implemented data fetching and state management using Axios and React Hooks/Angular Services.
 Designed interactive charts and graphs using Chart.js to visualize COVID-19 statistics effectively.
 Integrated a real-time interactive map to provide a geographical view of the pandemic spread.
+
 Project Outcome:
 The Corona Track Application serves as an essential tool for individuals to stay informed about the COVID-19 pandemic, offering accurate and timely information to help users make informed decisions.
 [![coronatrack application](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://maharshi1.netlify.app)
