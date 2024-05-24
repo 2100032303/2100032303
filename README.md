@@ -1,7 +1,6 @@
 
 # Hi there, I'm Maharshi Baba 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square)
 
 ## 👨‍🎓 About Me
 
