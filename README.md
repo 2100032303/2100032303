@@ -10,7 +10,7 @@ I'm a passionate Computer Science student at KL University, pursuing a Bachelor 
 
 - 🔭 I’m currently working on **Mern Stack Project**
 
-- ⚡ fact : **Accept what you did ,Accept what you get**
+- ⚡ Life Fact : **"Accept what you did,Accept what you get"**
 *************************************************************************************************************************************************************
 
 <h3 align="left">Connect with me:</h3>
