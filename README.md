@@ -6,7 +6,7 @@
 
 I'm a passionate Computer Science student at KL University, pursuing a Bachelor of Engineering with Honors. I specialize in software development, data structures, and algorithms. I love exploring new technologies and honing my skills through various projects and collaborations.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2100032303&label=Profile%20views&color=0e75b6&style=flat" alt="Maharshi baba" /> </p>
+
 
 - 🔭 I’m currently working on **Mern Stack Project**
 
